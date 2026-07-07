@@ -1,6 +1,6 @@
 /**
  * ╔══════════════════════════════════════════════════════════════╗
- * ║           OCEAN BIRTHDAY — SEMUA PENGATURAN DI SINI         ║
+ * ║             OCEAN LOVE — SEMUA PENGATURAN DI SINI            ║
  * ║  Kamu HANYA perlu edit file ini. Tidak perlu buka file lain. ║
  * ╚══════════════════════════════════════════════════════════════╝
  *
@@ -104,17 +104,17 @@ const MEMORIES = [
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   7. UCAPAN ULANG TAHUN
+   7. LOVE WISHES
    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
    icon: wave | shell | star | compass | anchor | heart
-   text: isi ucapannya                                            */
+   text: the wish itself                                          */
 const WISHES = [
-  { icon: "wave",    text: "may this year give you all the calm of the ocean, dan sedalam itu juga hati kamu yang selalu penuh dengan kindness, fr." },
-  { icon: "shell",   text: "hope your days stay this bright, kayak sun yang mantul di atas water, and your nights tetap peaceful seperti tide yang pelan-pelan balik ke laut." },
-  { icon: "star",    text: "may every lil wish kamu pelan-pelan come true, exactly when you need it the most, no cap." },
-  { icon: "compass", text: "wherever this year takes you, i hope kamu selalu find your way back to the people who genuinely care and adore you." },
-  { icon: "anchor",  text: "stay grounded, stay grateful, and tbh tetap jadi kamu yang sekarang — beautiful in your own way, always." },
-  { icon: "heart",   text: "happy birthday istg — cheers buat another year penuh memories yang bakal selalu worth keeping." },
+  { icon: "wave",    text: "I wish you all the calm of the ocean, and just as deep, a heart that always feels how much I love you." },
+  { icon: "shell",   text: "I hope your days stay this bright, like sunlight bouncing off the water, and your nights stay this peaceful." },
+  { icon: "star",    text: "I wish every little dream of yours comes true, exactly when you need it most." },
+  { icon: "compass", text: "Wherever life takes you, I hope you always find your way back to me." },
+  { icon: "anchor",  text: "Stay you, always — the person I fell for and keep falling for, every single day." },
+  { icon: "heart",   text: "I love you, truly — here's to us, and to every memory still waiting to be made." },
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
